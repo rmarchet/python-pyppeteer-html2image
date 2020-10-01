@@ -8,7 +8,7 @@ You need to clone this project and then install the dependencies (Pyppeteer):
 pip3 install -r requirements.txt
 ```
 
-Then simply run the script from the command line:
+Then simply run the given script from the command line:
 
 ```
 convert.py <input.html> <output.png>
